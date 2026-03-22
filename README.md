@@ -1,23 +1,22 @@
 ## Hi, I'm Raul! 👋
 
-👨‍💻 Aspiring Software Engineer <br/>
-👨‍🎓 Studying Computer Science @ PUC-SP <br/>
-💭 Currently focusing on: Advanced Data Structures (Red-Black Trees, Graphs, and Heaps) <br/>
 
-<!-- Github Stats from -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulkolaric&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+I’m a Full Stack Developer and Computer Science student at PUC-SP, currently based in São Paulo, Brazil. I love building systems that handle high volume and solve real-world problems with clean, performant code. My main drive is connecting with people, and learning from it. If you want to reach me, use the email in my bio! <br/>
 
-<!--
-**raulkolaric/raulkolaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💭 Currently focusing on: Advanced Data Structures (Red-Black Trees, Graphs, and Heaps) <br/> <br/>
 
-Here are some ideas to get you started:
+<div align="left">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=raulkolaric&show_icons=true&theme=merko&hide_border=true&height=165" alt="Raul's GitHub stats" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulkolaric&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&height=165" alt="Most Used Languages" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 🔧
+### Languages 
+[![My Skills](https://skillicons.dev/icons?i=python,js,typescript,java,c,cpp,html,css,,)](https://skillicons.dev)
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,react,django,fastapi,nodejs,bun,deno)](https://skillicons.dev)
+### Tools & Databases
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,supabase,firebase,mysql,postgres,sqlite,dynamodb,git,github,docker,nginx,anaconda,npm)](https://skillicons.dev)
