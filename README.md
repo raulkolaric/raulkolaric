@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Raul! 👋
+
+👨‍💻 Aspiring Software Engineer <br/>
+👨‍🎓 Studying Computer Science @ PUC-SP <br/>
+💭 Currently focusing on: Advanced Data Structures (Red-Black Trees, Graphs, and Heaps) <br/>
+
+<!-- Github Stats from -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulkolaric&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **raulkolaric/raulkolaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
