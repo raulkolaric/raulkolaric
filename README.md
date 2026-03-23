@@ -14,9 +14,9 @@ I’m a Full Stack Developer and Computer Science student at PUC-SP, currently b
 </div>
 
 ## Tech Stack 🔧
-### Languages 
-[![My Skills](https://skillicons.dev/icons?i=python,js,typescript,java,c,cpp,html,css,,)](https://skillicons.dev)
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,react,django,fastapi,nodejs,bun,deno)](https://skillicons.dev)
+### Main
+[![My Skills](https://skillicons.dev/icons?i=nextjs,fastapi,nestjs,typescript,python)](https://skillicons.dev)
+### Proficient With
+[![My Skills](https://skillicons.dev/icons?i=react,bun,deno,django)](https://skillicons.dev)
 ### Tools & Databases
 [![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,supabase,firebase,mysql,postgres,dynamodb,git,docker,nginx)](https://skillicons.dev)
