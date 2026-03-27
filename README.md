@@ -7,10 +7,10 @@ I’m a Full Stack Developer and Computer Science student at PUC-SP, currently b
 
 <div align="left">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=raulkolaric&show_icons=true&theme=merko&hide_border=true&height=100" alt="Raul's GitHub stats" />
+    <img src="https://github-readme-stats-tau-eight-88.vercel.app/api?username=raulkolaric&show_icons=true&theme=merko&hide_border=true" alt="Raul's GitHub stats" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulkolaric&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&height=100" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-tau-eight-88.vercel.app/api/top-langs/?username=raulkolaric&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </div>
 
 ## Tech Stack 🔧
