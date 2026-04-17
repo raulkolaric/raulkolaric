@@ -3,7 +3,7 @@
 
 I’m a Full Stack Developer and Computer Science student at PUC-SP, currently based in São Paulo, Brazil. I love building systems that handle high volume and solve real-world problems with clean, performant code. My main drive is connecting with people, and learning from it. If you want to reach me, use the email in my bio! <br/>
 
-### 💭 Currently focusing on: Advanced Data Structures (Red-Black Trees, Graphs, and Heaps) <br/> <br/>
+### 💭 Currently focusing on: Data Structures (Stacks, Queues, Linked Lists, etc.) <br/> <br/>
 
 <div align="left">
   <a>
