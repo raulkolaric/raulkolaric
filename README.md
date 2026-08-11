@@ -1,9 +1,11 @@
-## Hi, I'm Raul! 👋
+## Hi, I'm Raul! 
 
 
-I’m a Full Stack Developer and Computer Science student at PUC-SP, currently based in São Paulo, Brazil. I love building systems that handle high volume and solve real-world problems with clean, performant code. My main drive is connecting with people, and learning from it. If you want to reach me, use the email in my bio! <br/>
+I’m a Computer Science student at PUC-SP, currently based in São Paulo, Brazil. My principal tech interests are: Automation, Cloud & OSS. <br/>
 
-### 💭 Currently focusing on: Data Structures (Stacks, Queues, Linked Lists, etc.) <br/> <br/>
+Aspiring OSS Contributor.
+
+#### Currently focusing on: Data Structures (Stacks, Queues, Linked Lists, etc.) <br/> <br/>
 
 <div align="left">
   <a>
@@ -13,7 +15,7 @@ I’m a Full Stack Developer and Computer Science student at PUC-SP, currently b
   <img src="https://github-readme-stats-tau-eight-88.vercel.app/api/top-langs/?username=raulkolaric&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </div>
 
-## Tech Stack 🔧
+## Tech Stack:
 ### Main
 [![My Skills](https://skillicons.dev/icons?i=nextjs,fastapi,nestjs,typescript,python,react)](https://skillicons.dev)
 ### Proficient With
