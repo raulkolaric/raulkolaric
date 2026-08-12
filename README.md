@@ -8,7 +8,7 @@ Aspiring OSS Contributor.
 #### OSS Contributions:
 
 - [github/docs #45476](https://github.com/github/docs/pull/45476) — Fixed duplicated wording in the GitHub Copilot code review documentation.
-
+- [github/docs #45483](https://github.com/github/docs/pull/45483) — Fixed the MCP management stale section link.
 #### Currently learning: Data Structures & Algorithms <br/> <br/>
 
 <div align="left">
