@@ -1,11 +1,15 @@
-## Hi, I'm Raul! 
+# Hi, I'm Raul! 
 
 
-I’m a Computer Science student at PUC-SP, currently based in São Paulo, Brazil. My principal tech interests are: Automation, Cloud & OSS. <br/>
+I’m a Computer Science student at PUC-SP, currently based in São Paulo, Brazil. My main interests are automation, cloud infrastructure, and open source software. <br/>
 
 Aspiring OSS Contributor.
 
-#### Currently focusing on: Data Structures (Stacks, Queues, Linked Lists, etc.) <br/> <br/>
+#### OSS Contributions:
+
+- [github/docs #45476](https://github.com/github/docs/pull/45476) — Fixed duplicated wording in the GitHub Copilot code review documentation.
+
+#### Currently learning: Data Structures & Algorithms <br/> <br/>
 
 <div align="left">
   <a>
