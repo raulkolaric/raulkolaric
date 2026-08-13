@@ -9,6 +9,7 @@ Aspiring OSS Contributor.
 
 - [github/docs #45476](https://github.com/github/docs/pull/45476) — Fixed duplicated wording in the GitHub Copilot code review documentation.
 - [github/docs #45483](https://github.com/github/docs/pull/45483) — Fixed the MCP management stale section link.
+- [github/docs #45488](https://github.com/github/docs/pull/45488) — Fixed duplicated and redundant wording across multiple GitHub documentation pages.
 #### Currently learning: Data Structures & Algorithms <br/> <br/>
 
 <div align="left">
