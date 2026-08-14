@@ -1,9 +1,7 @@
-# Hi, I'm Raul! 
+### Hi, I'm Raul! 
 
 
-I’m a Computer Science student at PUC-SP, currently based in São Paulo, Brazil. My main interests are automation, cloud infrastructure, and open source software. <br/>
-
-Aspiring OSS Contributor.
+I’m a CS student at PUC-SP, currently based in São Paulo, Brazil. My main interests are automation, cloud infrastructure, and open source software. <br/>
 
 #### OSS Contributions:
 
