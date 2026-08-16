@@ -1,7 +1,7 @@
 ### Hi, I'm Raul! 
 
 
-I'm a Computer Science student based in São Paulo, Brazil. My main interests are automation, cloud infrastructure, and open source software. <br/>
+I'm a CS student based in São Paulo, Brazil. My main interests are automation, cloud infrastructure, and open source software. <br/>
 Outside of software, I'm interested in space exploration, aviation, and photography.
 
 #### OSS Contributions:
