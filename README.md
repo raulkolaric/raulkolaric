@@ -11,6 +11,7 @@ Outside of software, I'm interested in space exploration, aviation, and photogra
 - [github/docs #45488](https://github.com/github/docs/pull/45488) — Fixed duplicated and redundant wording across multiple GitHub documentation pages.
 - [raycast/extensions #30219](https://github.com/raycast/extensions/pull/30219) — Fixed a Brave extension crash when profile history databases are missing, corrected Beta/Nightly profile discovery, and resolved [#30131](https://github.com/raycast/extensions/issues/30131) and [#30153](https://github.com/raycast/extensions/issues/30153).
 - [raycast/extensions #30283](https://github.com/raycast/extensions/pull/30283) — Reduced Spotify Player memory usage by limiting the liked-songs library fetch to tracks only, avoiding unnecessary library data and helping mitigate memory-limit crashes. Resolved [#30218](https://github.com/raycast/extensions/issues/30218)
+- [raycast/extensions #30331](https://github.com/raycast/extensions/pull/30331) — Fixed an Obsidian extension crash caused by inaccessible vault configuration files, adding graceful error handling and regression tests. ([#30308](https://github.com/raycast/extensions/issues/30308))
 
 #### Currently learning: Data Structures & Algorithms <br/> <br/>
 
