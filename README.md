@@ -13,7 +13,7 @@ Outside of software, I'm interested in space exploration, aviation, and photogra
 - [raycast/extensions #30283](https://github.com/raycast/extensions/pull/30283) — Reduced Spotify Player memory usage by limiting the liked-songs library fetch to tracks only, avoiding unnecessary library data and helping mitigate memory-limit crashes. Resolved [#30218](https://github.com/raycast/extensions/issues/30218)
 - [raycast/extensions #30331](https://github.com/raycast/extensions/pull/30331) — Fixed an Obsidian extension crash caused by inaccessible vault configuration files, adding graceful error handling and regression tests. Resolved [#30308](https://github.com/raycast/extensions/issues/30308)
 
-#### Currently learning: Data Structures & Algorithms <br/> <br/>
+#### Currently learning: Data Structures & Algorithms <br/>
 <!--
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=raulkolaric&hide_rank=false&hide_title=true&include_all_commits=true&theme=transparent&hide_border=true&card_width=800)](https://github-stats-extended.vercel.app/api?username=anuraghazra&hide_rank=true&hide_title=true&include_all_commits=true&theme=transparent)
 -->
