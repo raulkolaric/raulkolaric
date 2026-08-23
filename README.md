@@ -19,7 +19,7 @@ Outside of software, I'm interested in space exploration, aviation, and photogra
 -->
 <div>
     <a>
-        <img src="https://github-stats-extended.vercel.app/api?username=raulkolaric&hide_rank=false&hide_title=true&include_all_commits=true&theme=transparent&hide_border=true&card_width=500" alt="Raul's GitHub stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=raulkolaric&hide_rank=false&hide_title=true&include_all_commits=true&theme=transparent&hide_border=true&card_width=520" alt="Raul's GitHub stats" />
     </a>
   &nbsp;&nbsp;
     <a>
